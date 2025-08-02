@@ -3,3 +3,9 @@ def num():
         print(i)
 
 print(num())
+
+def plus():
+    a = 10 + 20
+    print(a)
+
+
