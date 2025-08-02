@@ -6,6 +6,7 @@ print(num())
 
 def plus():
     a = 10 + 20
+    b = 20 + 40
     print(a)
 
 
